@@ -22,7 +22,7 @@ pipeline {
    stage('UAT') {
      steps {
 	 
-       echo 'UAT...'
+       echo 'UAT.............'
      }
    }
    stage('Release to Production') {
